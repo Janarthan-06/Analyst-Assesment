@@ -1,0 +1,6 @@
+step,unique_users,prev_users,conversion_rate,drop_off,generated_at
+visited_site,200,,,,2026-07-23T22:14:41.678162
+signup_started,150,200.0,75.0,50.0,2026-07-23T22:14:41.678162
+details_filled,96,150.0,64.0,54.0,2026-07-23T22:14:41.678162
+email_verified,52,96.0,54.17,44.0,2026-07-23T22:14:41.678162
+purchase_completed,44,52.0,84.62,8.0,2026-07-23T22:14:41.678162
